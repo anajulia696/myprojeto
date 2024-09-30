@@ -1,1 +1,2 @@
 Este e um arquivo de exemplo
+adicionado uma nova funcionalidade 
